@@ -6,7 +6,7 @@ This is a central document which contains all the commands and code files used t
 
 | Domain | Document Link |
 | ------ | ------ |
-| 1 | [Domain 1 - Cluster Setup][PlDa] |
+| 1 | [Domain 1 - Cluster Setup(with secret encryption)][PlDa] |
 | 2 | [Domain 2 - Cluster Hardening][PlDb] |
 | 3 | [Domain 3 - Minimize Microservice Vulnerabilities][PlDc]
 | 4 | [Domain 4 - System Hardening][PlDe] |
